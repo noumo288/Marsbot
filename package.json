@@ -1,0 +1,16 @@
+{
+  "name": "marsbot",
+  "version": "1.0.0",
+  "description": "workshop chatbot ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start" : "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
+}
